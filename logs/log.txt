@@ -1,1 +1,1 @@
-[alt_l][tab][tab][enter][alt_l][tab][alt_l][tab][alt_l][tab][tab]testestestesteste[space]stestesteste[space]stestest
+[enter][left][left][left][left][shift]_[shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r]%s[end][left][right][space][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r]%[space]date[backspace][backspace][backspace]
