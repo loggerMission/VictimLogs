@@ -1,0 +1,1 @@
+[ctrl_l][backspace][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r]%s[right][right][space][shift_r][shift_r][shift_r]%[space][backspace][space][ctrl_l][enter][shift_r][shift_r][shift_r]
