@@ -1,1 +1,1 @@
-from[space]date[tab][space]om[backspace][backspace]imp[tab][space]da[down][tab][ctrl_l]date[tab]time[tab][shift_r]([end][shift][left][left][left][left][left][left][left][left][left]
+[backspace]n[tab][shift_r]([right][shift_r]([ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][space]str[tab][shift_r]('[ctrl_l][backspace][ctrl_l][space]i
