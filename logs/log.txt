@@ -1,1 +1,1 @@
-[backspace]n[tab][shift_r]([right][shift_r]([ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][space]str[tab][shift_r]('[ctrl_l][backspace][ctrl_l][space]i
+
