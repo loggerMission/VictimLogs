@@ -1,1 +1,1 @@
-[enter][left][left][left][left][shift]_[shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r]%s[end][left][right][space][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r]%[space]date[backspace][backspace][backspace]
+from[space]date[tab][space]om[backspace][backspace]imp[tab][space]da[down][tab][ctrl_l]date[tab]time[tab][shift_r]([end][shift][left][left][left][left][left][left][left][left][left]
