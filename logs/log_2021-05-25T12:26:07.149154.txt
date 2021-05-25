@@ -1,1 +1,0 @@
-nt[space]input[enter][shift_r]#[space][shift]But[space]the[space]numpad[space]virtual[space]keys[space]retruns[backspace][backspace]
